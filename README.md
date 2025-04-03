@@ -1,4 +1,4 @@
-# How to build and run tests
+# How to run tests
 
 Requirements:
 - Java 21
